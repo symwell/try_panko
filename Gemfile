@@ -1,0 +1,2 @@
+gem "panko_serializer"
+
